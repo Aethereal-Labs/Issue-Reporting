@@ -1,2 +1,2 @@
 # Issue-Reporting
-Issue Tracker for FGC
+Issue Tracker for Aethereal Labs Mods
